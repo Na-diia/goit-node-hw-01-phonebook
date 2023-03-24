@@ -8,9 +8,14 @@
     "start": "node index",
     "dev": "nodemon index"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Na-diia/goit-node-hw-01-phonebook.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "homepage": "https://github.com/Na-diia/goit-node-hw-01-phonebook#readme",
   "devDependencies": {
     "nodemon": "^2.0.21"
   },
